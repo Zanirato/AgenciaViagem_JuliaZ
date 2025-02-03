@@ -11,13 +11,13 @@ A criação de um protótipo é importante para que um projeto seja feito, desde
 
  <br>
  
-#### Protótipo Desktop
+### Protótipo Desktop
 
 ![Captura de tela 2025-02-03 160500](https://github.com/user-attachments/assets/a465340b-c396-4d7c-bb8b-526c163b5bb8)
 
 <br>
 
-#### Protótipop Mobile
+### Protótipop Mobile
 
 ![Captura de tela 2025-02-03 160532](https://github.com/user-attachments/assets/faaeef81-37a4-41a5-b54a-8456bc6e6f5f)
 
