@@ -66,6 +66,11 @@ h3{
 h4{
     color: #671616;
 }
+
+p{
+    color: #671616;
+}
+
 .main-content{
     flex: 2;
     min-width: 300px;
@@ -91,12 +96,15 @@ li{
 
 footer{
     background:#78140D;
-    color: #FFFDC5;
+    color: #fffdc5;
     text-align: center;
     padding: 10px;
     margin-top: auto;
 }
 
+#contatos{
+    color: #FFFDC5;
+}
 form{
     display: flex;
     flex-direction: column;
