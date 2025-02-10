@@ -71,6 +71,10 @@ p{
     color: #671616;
 }
 
+b{
+    color: #4f0c07;
+}
+
 .main-content{
     flex: 2;
     min-width: 300px;
