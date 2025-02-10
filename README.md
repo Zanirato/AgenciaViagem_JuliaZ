@@ -1,4 +1,4 @@
-![Captura de tela 2025-02-10 090727](https://github.com/user-attachments/assets/232d5a93-ae13-4448-8334-674791d29966)# Agência de Viagens
+# Agência de Viagens
 
 
 Criação  de página web com o auxílio do professor, com intuito pedagógico. Página web de uma agência de viagens, com os países que podem ser viajados, opções de pacotes e um formulário para a especificação de local para o qual será viajado e data de viagem. A página contêm um header, um main, um aside, um formulário e um footer.
